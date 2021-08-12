@@ -96,8 +96,10 @@ h1,h2,h3,h4,h5,h6 {
         text-transform: uppercase;
     }
 
-#selfi {
-    float: right;
+#selfie {
+    position:absolute;
+    right: 200px;
+    top: 10px;
 }
 
 .form-box {
